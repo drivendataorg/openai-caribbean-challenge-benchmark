@@ -4,6 +4,6 @@ This repo contains the code from the [benchmark blog post](http://drivendata.co/
 
 `BenchmarkBlog.mlx` is the MATLAB live script of the benchmark code with detailed instructions on how to load, process, and predict on the data. `resnet_presaved.mat` contains the pretrained ResNet-18 model used in the benchmark.
 
-*Note: To access these files you have to download the file or clone the repo.*
+*Note: To access these files you have to download or clone the repo.*
 
 `Benchmark_code.m` is the MATLAB code file of the benchmark, which is viewable directly on GitHub.
